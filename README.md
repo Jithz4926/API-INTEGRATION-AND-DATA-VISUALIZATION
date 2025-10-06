@@ -17,3 +17,7 @@
 OUTPUT 1
 
 ![Image](https://github.com/user-attachments/assets/c3c59689-1650-47b4-88e6-442d192a9a70)
+
+OUTPUT 2
+
+<img width="1920" height="1090" alt="Image" src="https://github.com/user-attachments/assets/d93ecdd9-c58b-460d-b4ba-b07b3972596a" />
