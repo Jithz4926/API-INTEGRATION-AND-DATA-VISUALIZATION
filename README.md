@@ -14,3 +14,6 @@
 
 ##YOU HAVE ENTERED THE DESCRIPTION OF THE TASK(AND IT SHOULD BE LESS THAN 500 WORDS)
 
+OUTPUT 1
+
+![Image](https://github.com/user-attachments/assets/c3c59689-1650-47b4-88e6-442d192a9a70)
